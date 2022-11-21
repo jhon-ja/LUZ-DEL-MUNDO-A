@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="blogweb" horiz-adv-x="1000" >
+<font-face font-family="blogweb" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="home" unicode="&#xe800;" d="M521 819q322-279 500-429 20-16 20-40 0-21-15-37t-36-15l-105 0 0-364q0-21-15-37t-36-16l-156 0q-22 0-37 16t-16 37l0 208-209 0 0-208q0-21-15-37t-36-16l-156 0q-21 0-37 16t-16 37l0 364-103 0q-22 0-37 15t-16 37 19 40z" horiz-adv-x="1041" />
+
+<glyph glyph-name="cartillas" unicode="&#xe801;" d="M682 594q18-8 18-28l0-562q0-14-12-25t-28-11q-46 0-46 36l0 522q0 12-12 18l-404 216q-32 10-68-10-44-20-56-44l408-228q18-8 18-28l0-550q0-22-18-28-6-4-16-4-14 0-20 4-8 6-202 127t-212 131q-26 18-26 34l-6 524q0 28 14 52 28 46 102 77t116 9z" horiz-adv-x="700" />
+
+<glyph glyph-name="noticias" unicode="&#xe802;" d="M700 800q42 0 71-29t29-71l0-700q0-40-29-70t-71-30l-600 0q-40 0-70 30t-30 70l0 700q0 42 30 71t70 29l600 0z m0-800l0 700-600 0 0-700 600 0z m-250 250l0-50-250 0 0 50 250 0z m150 200l0-50-200 0 0 50 200 0z m-200 50l0 100 200 0 0-100-200 0z m-50 100l0-200-150 0 0 200 150 0z m-50-250l0-50-100 0 0 50 100 0z m50-50l0 50 250 0 0-50-250 0z m250-150l0-50-400 0 0 50 400 0z m-100 50l0 50 100 0 0-50-100 0z" horiz-adv-x="800" />
+
+<glyph glyph-name="ubi" unicode="&#xf276;" d="M286 243q37 0 71 8v-365q0-15-10-25t-26-11h-71q-14 0-25 11t-11 25v365q35-8 72-8z m0 607q118 0 202-84t83-202-83-202-202-83-202 83-84 202 84 202 202 84z m0-125q8 0 13 5t5 13-5 13-13 5q-82 0-139-58t-58-139q0-7 5-12t13-6 13 6 5 12q0 67 47 114t114 47z" horiz-adv-x="571.4" />
+
+<glyph glyph-name="facebook" unicode="&#xf30d;" d="M480 830q200 0 340-140t140-340q0-198-140-339t-340-141-340 141-140 339q0 200 140 340t340 140z m114-330l0 78-72 0q-44 0-74-33t-30-81l0-44-76 0 0-74 76 0 0-222 86 0 0 222 90 0 0 74-90 0 0 52q0 28 18 28l72 0z" horiz-adv-x="960" />
+</font>
+</defs>
+</svg>
